@@ -3,4 +3,4 @@ A fun game made using opencv that detects specific color drumstics in the air an
 You can choose beats as per your choice.
 
 ## To run the game:
-Run: `python `
+Run: `python Project AirDrums.py`
