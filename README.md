@@ -3,4 +3,6 @@ A fun game made using opencv that detects specific color drumstics in the air an
 You can choose beats as per your choice.
 
 ## To run the game:
-Run: `python Project AirDrums.py`
+Run: `python AirDrums.py`
+
+### To find the HSV values of your Drum Sticks you can use `HSV_Detection.ipynb`
